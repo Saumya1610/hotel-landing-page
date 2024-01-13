@@ -400,8 +400,8 @@ body {
 
 }
 .room-card{
-    width: 50rem;
-    margin: 5rem;
+    width: 40%;
+    margin: 3rem;
     background-color: #15141b;
     box-shadow: 0 3rem 6rem rgba(0, 0, 0, .3);
 
